@@ -10,4 +10,4 @@ pytz==2018.7
 requests==2.20.1
 serializers==0.2.4
 six==1.11.0
-urllib3==1.24.1
+urllib3==1.26.5
